@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi I'm tyler
+
+Reach me via e-mail with [t.gu@mail.utoronto.ca](mailto:t.gu@mail.utoronto.ca) or through Discord with @/tyler_0313.
 
 <!--
 **rvcorridor/rvcorridor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
